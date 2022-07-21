@@ -1,7 +1,7 @@
 #Ilkhomjon Abdukakhkhorov
-<h3 align="center">Junior Front-End Programmer from Uzbekistan</h3>
+<h3 >Junior Front-End Programmer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkhomjon2604" alt="ilkhomjon2604" /></a> </p>
+
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Sass, Bootstrap**
 

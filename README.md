@@ -2,7 +2,7 @@
 
 Frontend developer, .
 
-[💼 Portfolio](https://myprofile.uz) | [💬 Telegram](https://t.me/username_this) | 📧 ilkhomjon2001@gmail.com
+[💼 Portfolio](https://myprofile.uz) | [💬 Telegram](https://t.me/ilk26) | 📧 ilkhomjon2001@gmail.com
 
 
 ## Technalogies

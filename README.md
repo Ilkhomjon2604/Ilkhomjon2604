@@ -2,7 +2,7 @@
 
 Frontend developer, .
 
-[💼 Portfolio](https://cosmic-sherbet-c999d4.netlify.app/) | [💬 Telegram](https://t.me/ilk26) | 📧 ilkhom.work@gmail.com
+[💼 Portfolio](https://cosmic-sherbet-c999d4.netlify.app/) | [💬 Telegram](https://t.me/new_me_ixa) | 📧 ilkhom.work@gmail.com
 
 
 ## Technalogies
